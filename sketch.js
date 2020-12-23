@@ -110,7 +110,7 @@ function Reset(){
 }
 
 function draw() {
-  background("lightBlue");
+  background("Blue");
   
   if (GameState == "Play"){
     
